@@ -67,10 +67,6 @@ node server.js
 
 Visit `http://localhost:3000` in your browser.
 
----
-
-
-
 
 ## ⚠️ Disclaimer
 
