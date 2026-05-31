@@ -14,24 +14,7 @@
 
 ---
 
-## 📋 Table of Contents
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Supported Platforms](#supported-platforms)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Running Locally](#running-locally)
-- [Project Structure](#project-structure)
-- [How It Works](#how-it-works)
-- [Live Demo](#live-demo)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
 
 ## 📖 About the Project
 
