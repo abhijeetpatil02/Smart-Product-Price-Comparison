@@ -144,6 +144,6 @@ Project Link: [https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison
 
 ---
 
-<div align="center">
+<div align="center" style=color:"black">
   Made with ❤️ by <a href="https://github.com/abhijeetpatil02">Abhijeet Patil</a>
 </div>
