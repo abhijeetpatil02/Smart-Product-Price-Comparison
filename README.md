@@ -10,8 +10,6 @@
 
 **A real-time web application that aggregates product data from major e-commerce platforms to help users find the best deals instantly.**
 
-[🚀 Live Demo](https://smart-product-price-comparison.onrender.com/) • [📂 Repository](https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison) • [🌐 Portfolio](https://abhijeetp-portfolio.netlify.app/) • [🐛 Report Bug](https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison/issues)
-
 </div>
 
 ---
@@ -73,38 +71,6 @@
 | 🔵 Flipkart | ✅ Supported |
 | 🔴 Snapdeal | ✅ Supported |
 | 🩷 Myntra | ✅ Supported |
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [npm](https://www.npmjs.com/)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/abhijeetpatil02/Smart-Product-Price-Comparison.git
-   cd Smart-Product-Price-Comparison
-   ```
-
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
-
-### Running Locally
-
-```bash
-node server.js
-```
-
-Open your browser and navigate to `http://localhost:3000`
 
 ---
 
